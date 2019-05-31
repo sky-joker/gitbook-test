@@ -6,3 +6,7 @@
 aaa
 {% endhint %}
 
+{% hint style="success" %}
+success
+{% endhint %}
+
