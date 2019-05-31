@@ -10,3 +10,17 @@ aaa
 success
 {% endhint %}
 
+{% tabs %}
+{% tab title="First Tab" %}
+aaa
+{% endtab %}
+
+{% tab title="Second Tab" %}
+bbb
+{% endtab %}
+
+{% tab title="" %}
+cccc
+{% endtab %}
+{% endtabs %}
+
